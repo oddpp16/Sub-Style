@@ -1799,6 +1799,7 @@ main, header, footer {
   .trend-section {
     flex-direction: column;
     padding: 24px 0;
+    max-width: 400px;
   }
 
   .trend-section button,
@@ -1827,6 +1828,7 @@ main, header, footer {
 
   .image-box p {
     text-align: center;
+    max-width: 400px;
   }
 
 
@@ -1849,6 +1851,7 @@ main, header, footer {
 
   .decade p {
     font-size: 16px;
+    max-width: 400px;
   }
 
 
