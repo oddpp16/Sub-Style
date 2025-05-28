@@ -1764,7 +1764,12 @@ main, header, footer {
     max-height: 250px;
     border-radius: 12px;
   }
-
+  .trend-images-trend-single img{
+    align-items: center;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+  }
 
   .intro-section {
     flex-direction: column;
