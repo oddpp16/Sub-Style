@@ -1233,8 +1233,8 @@ main, header, footer {
     flex: 1;
     max-width: 520px;
     font-size: 17px;
-    line-height: 1.8;
-    text-align: justify;
+    line-height: 1.5;
+    text-align: left;
   }
 
   @media (max-width: 768px) {
@@ -1336,7 +1336,7 @@ main, header, footer {
   position: relative; 
   margin: 40px auto;
   background: white;
-  line-height: 1.8;
+  line-height: 1.6;
   max-width: 520px;
   font-size: 17px;
   box-sizing: border-box;
@@ -1507,9 +1507,7 @@ main, header, footer {
     align-items: center;
   }
 
-  .content-block-vivienne.reverse {
-    flex-direction: column;
-  }
+
 
 .content-block-vivienne img {
     max-width: 90%;
@@ -1811,7 +1809,7 @@ main, header, footer {
   position: relative;
   padding: 30px;
   margin: 60px auto;
-  line-height: 1.8;
+  line-height: 1.6;
   max-width: 520px;
   font-size: 17px;
   opacity: 0;
